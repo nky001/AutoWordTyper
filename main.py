@@ -30,7 +30,7 @@ def main():
 
 
 
-    typing_location = (1402, 970)
+    typing_location = (1402, 970) # adjust auto typing location , for location use coordinates.py 
 
     pyautogui.click(typing_location)
 
